@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author 638981
+ * @author Phillip Obiora
  */
 public class AgeCalculatorServlet extends HttpServlet {
     /**

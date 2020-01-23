@@ -1,7 +1,7 @@
 <%-- 
     Document   : agecalculator
     Created on : Jan 22, 2020, 4:51:25 PM
-    Author     : 638981
+    Author     : Phillip obiora
 --%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -18,6 +18,6 @@
             <input type="submit" value="Age next birthday"><br>
         </form>
         ${message}<br>
-        <a href="">Arithmetic Calculator</a>
+        <a href="arithmetic">Arithmetic Calculator</a>
     </body>
 </html>
